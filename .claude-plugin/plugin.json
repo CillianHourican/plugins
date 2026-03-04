@@ -6,16 +6,5 @@
     "name": "Erick Matsen"
   },
   "homepage": "https://github.com/matsengrp/plugins",
-  "license": "MIT",
-  "keywords": [
-    "scientific-writing",
-    "code-review",
-    "latex",
-    "tex",
-    "documentation",
-    "academic",
-    "bioinformatics"
-  ],
-  "agents": "agents/",
-  "hooks": "hooks/hooks.json"
+  "license": "MIT"
 }
