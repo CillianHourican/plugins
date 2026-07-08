@@ -15,7 +15,5 @@
     "documentation",
     "academic",
     "bioinformatics"
-  ],
-  "agents": "agents/",
-  "hooks": "hooks/hooks.json"
+  ]
 }
